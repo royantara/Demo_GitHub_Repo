@@ -8,6 +8,6 @@ https://dev.azure.com/almvsts1/AntaraPOC/_apis/build/status/GitHub-Pipeline
 
 https://vsrm.dev.azure.com/almvsts1/_apis/public/Release/badge/46383ad3-aea8-4bfb-96d8-ffb53fea6e85/10/14
 
-[![Quality Gate Status](http://172.27.59.148:9000/api/project_badges/measure?project=com.cybage%3ASecondMavenProject&metric=alert_status)](http://172.27.59.148:9000/dashboard?id=com.cybage%3ASecondMavenProject)
+http://172.27.59.148:9000/api/project_badges/measure?project=com.cybage%3ASecondMavenProject&metric=alert_status
 
 
